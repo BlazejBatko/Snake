@@ -8,10 +8,10 @@ To run .jar file you have to install Java Runtime Environment on your computer.
 ## Installation
 
 Simply download files from this repository as ZIP and unpack them on your computer. 
-Open program with .appref-ms file.
+Open program with .jar file to execute
 
 ## Usage
-![Alt Text](http://g.recordit.co/8HuPeMiw59.gif)
+![Alt Text](http://g.recordit.co/G2ePeo8eyv.gif)
 
 
 ## Built
